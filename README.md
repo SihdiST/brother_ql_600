@@ -1,4 +1,4 @@
-## brother\_ql
+## This project is a copy of PKlaus's brother_ql with merged pull requests
 
 A Python package to control Brother QL label printers.
 It implements the raster language of those printers and allows you to send instruction files to your printer.
